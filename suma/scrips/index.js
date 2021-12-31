@@ -1,0 +1,1 @@
+let res=document.getElementById("suma").innerHTML="El resultado de la suma de 5 + 3 es igual a " + (5 + 3);
