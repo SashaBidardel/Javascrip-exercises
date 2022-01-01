@@ -1,4 +1,4 @@
-Ejercicios de Javascript:
+EJERCICIOS DE JAVASCRIP:
 
 
 
@@ -48,6 +48,7 @@ Ejercicios de Javascript:
 El algoritmo para calcular la letra del dni es el siguiente :
 
 a:El número debe ser entre 0 y 99999999
+
 b:Debemos calcular el resto de la división entera entre el número y el número 23.
 
 ***Los ejercicios 9,10,11 están hechos en el repositorio "Contar vocales"
